@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+*.env
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Temporary audio downloads
+temp_downloads/
+*.mp3
+*.m4a
+*.webm
+*.opus
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
